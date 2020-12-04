@@ -1,3 +1,8 @@
+## KNPS Nature Resource Management Sytem
+
+이 앱은 국립공원 자연자원조사관련 자료를 관리하는 시스템입니다.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
