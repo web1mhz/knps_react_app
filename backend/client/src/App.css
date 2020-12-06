@@ -1,0 +1,60 @@
+.bg_color{
+
+  background-color: #cccccc;
+}
+
+.con {
+  width: 1080px;
+}
+
+.con {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.con-min-width {
+  min-width: 1080px;
+}
+
+.flex{
+  display: flex;
+}
+
+.flex-ai-c{
+  align-items:center;
+}
+
+.flex-sb {
+  justify-content: space-between;
+}
+
+
+.flex-ji-c{
+  justify-items: center;
+}
+
+.padding-lr {
+  padding: 0 10px;
+}
+
+.height-800{
+  height: 800px;;
+}
+
+.text-center{
+  text-align: center;
+}
+
+/* table {
+  width:80%;
+  border-spacing: 0;
+  text-align:center;
+  margin: 20px auto; 
+  border: 1px solid #ccc;
+} 
+
+th, tr, td {
+
+  height: 50px;
+  border: 1px solid #ccc;
+} */

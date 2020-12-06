@@ -1,0 +1,53 @@
+body {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+
+#navbar {
+  height: 50px;
+  width: 100%;
+  background: #262626;
+  color: white;
+  font-weight: bolder;
+  font-size: 25x;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* 1px : 0.2mm, 10px: 2mm */
+
+#infobox{
+
+  position: absolute;
+  top: 100px;
+  z-index: 10000;
+  background: white;
+  left: 20px;
+  padding: 15px;
+  border: 1px solid rgba(0, 0, 0, 2);
+  border-radius: 4px;
+  text-align: center;
+
+}
+
+#infotitle{
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+.marker{
+  
+  border: 1px solid black;
+  background: green;
+  opacity: 0.8;
+  height: 24px;
+  width: 24px; 
+  border-radius: 50%;
+}
+
+a {
+  color: #00B7FF;
+}
+
